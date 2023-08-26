@@ -1,0 +1,8 @@
+pycaret==3.0.4
+google-cloud-aiplatform==1.31.0
+pyarrow ==12.0.1
+deltalake==0.10.0
+gcsfs==2023.6.0
+seaborn==0.12.2
+matplotlib==3.7.2
+ipykernel==6.25.1
